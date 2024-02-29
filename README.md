@@ -1,1 +1,1 @@
-# exercicio-Js-Hml-carinho-de-compras
+# exercicio-Js-Html-carinho-de-compras
